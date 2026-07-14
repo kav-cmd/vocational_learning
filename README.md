@@ -106,4 +106,11 @@ AI/NLP-assisted personalization - then integrated and tested end-to-end
 
 **Mentor:** Dr. Vinay Hegde, Professor, Dept. of CSE, RVCE.
 
+## Related repositories & live demos
+
+This project spans several components maintained across the team:
+
+- **Smart Career Advisor AI (NLP resume parser)** — live demo: https://anish-nlp.streamlit.app/ · code: https://github.com/anish41338/NLP-BASED-RESUME-PARSER — resume/JD upload, skill extraction, and job-compatibility scoring
+- **Frontend** — https://github.com/vaanyaasingh/jobrready
+- **Platform (Manya's copy)** — https://github.com/manyaasharma07/vocational_learning
 This copy of the repository is maintained by Kavya.
