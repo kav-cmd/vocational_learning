@@ -98,11 +98,11 @@ AI/NLP-assisted personalization - then integrated and tested end-to-end
 
 | Name | USN | Role |
 |:-----|:----|:-----|
-| Vaanya Singh | 1RV23CS277 | |
-| Manya Sharma | 1RV23AI053 | |
-| Aryaki | 1RV23CS050 | |
+| Vaanya Singh | 1RV23CS277 | Frontend (React + Tailwind CSS + i18n)|
+| Manya Sharma | 1RV23AI053 | Backend APIs (Node.js + Express) |
+| Aryaki | 1RV23CS050 | Security, cloud, and testing |
 | Kavya | 1RV23CY025 | Database design (PostgreSQL/Supabase), email OTP authentication |
-| Anish | 1RV23CS039 | |
+| Anish | 1RV23CS039 | AI/NLP engine (Gemini AI tutor, query understanding) |
 
 **Mentor:** Dr. Vinay Hegde, Professor, Dept. of CSE, RVCE.
 
