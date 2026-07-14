@@ -5,3 +5,4 @@ build/
 *.log
 .DS_Store
 Thumbs.db
+*.log origin/feature/real-ai-email-otp-i18n
